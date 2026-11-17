@@ -1,0 +1,10 @@
+{
+  "id": "radiographic-anatomy",
+  "name": "التشريح الشعاعي",
+  "platformTitle": "منصة QDU للاختبار التفاعلي",
+  "author": "مقتدى الكناني",
+  "contentVersion": "radiographic-anatomy-1",
+  "enrichmentFiles": [
+    "enrichment.json"
+  ]
+}

@@ -1,0 +1,2272 @@
+[
+  {
+    "id": "candidates-q001",
+    "lectureId": "candidates",
+    "text": "What is the largest part of the brain that consists of two hemispheres?",
+    "options": [
+      "Cerebellum",
+      "Brainstem",
+      "Cerebrum",
+      "Spinal cord"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "candidates-q002",
+    "lectureId": "candidates",
+    "text": "Which major groove separates the left and right cerebral hemispheres?",
+    "options": [
+      "Lateral (Sylvian) fissure",
+      "Longitudinal fissure",
+      "Central sulcus",
+      "Transverse fissure"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "candidates-q003",
+    "lectureId": "candidates",
+    "text": "Which cerebral lobe is primarily responsible for visual information processing?",
+    "options": [
+      "Frontal lobe",
+      "Parietal lobe",
+      "Temporal lobe",
+      "Occipital lobe"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "candidates-q004",
+    "lectureId": "candidates",
+    "text": "The precentral gyrus and primary motor cortex are located in which lobe?",
+    "options": [
+      "Frontal lobe",
+      "Parietal lobe",
+      "Occipital lobe",
+      "Temporal lobe"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "candidates-q005",
+    "lectureId": "candidates",
+    "text": "Which of the following imaging modalities uses ionizing radiation to produce rapid cross- sectional scans?",
+    "options": [
+      "Magnetic Resonance Imaging (MRI)",
+      "Computed Tomography (CT)",
+      "Ultrasound",
+      "Positron Emission Tomography (PET)"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "candidates-q006",
+    "lectureId": "candidates",
+    "text": "Which body plane divides the body into right and left portions?",
+    "options": [
+      "Axial plane",
+      "Coronal plane",
+      "Sagittal plane",
+      "Transverse plane"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "candidates-q007",
+    "lectureId": "candidates",
+    "text": "On a non-contrast brain CT scan, how does normal bone appear due to high physical density?",
+    "options": [
+      "Dark black",
+      "Bright white (hyperdense)",
+      "Transparent",
+      "Uniform gray"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "candidates-q008",
+    "lectureId": "candidates",
+    "text": "On a T2-weighted MRI scan, how does cerebrospinal fluid (CSF) typically appear?",
+    "options": [
+      "Dark",
+      "Bright (hyperintense)",
+      "Invisible",
+      "Green"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "candidates-q009",
+    "lectureId": "candidates",
+    "text": "The cerebral cortex is composed predominantly of which type of matter?",
+    "options": [
+      "Gray matter",
+      "White matter",
+      "Spongy bone",
+      "Adipose tissue"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "candidates-q010",
+    "lectureId": "candidates",
+    "text": "Which cerebral lobe contains the primary visual cortex?",
+    "options": [
+      "Frontal",
+      "Parietal",
+      "Temporal",
+      "Occipital"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "candidates-q011",
+    "lectureId": "candidates",
+    "text": "On a typical non-contrast CT brain, how does normal gray matter usually appear compared with white matter?",
+    "options": [
+      "Lower in attenuation",
+      "Higher in attenuation",
+      "Completely black",
+      "Always identical in attenuation"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "candidates-q012",
+    "lectureId": "candidates",
+    "text": "A student is examining an axial T2-weighted brain MRI. How does CSF typically appear?",
+    "options": [
+      "Dark",
+      "Bright",
+      "Identical to bone",
+      "Always invisible"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "candidates-q013",
+    "lectureId": "candidates",
+    "text": "Which anatomical structure connects the left and right cerebral hemispheres?",
+    "options": [
+      "Thalamus",
+      "Corpus callosum",
+      "Internal capsule",
+      "Basal ganglia"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "candidates-q014",
+    "lectureId": "candidates",
+    "text": "What is the largest commissural white matter tract in the human brain?",
+    "options": [
+      "Internal capsule",
+      "Corpus callosum",
+      "Optic tract",
+      "Corticospinal tract"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "candidates-q015",
+    "lectureId": "candidates",
+    "text": "How many distinct anatomical segments does the corpus callosum have from anterior to posterior?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "candidates-q016",
+    "lectureId": "candidates",
+    "text": "Which segment of the corpus callosum forms the prominent anterior \"knee\" that connects the frontal lobes?",
+    "options": [
+      "Rostrum",
+      "Genu",
+      "Body",
+      "Splenium"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "candidates-q017",
+    "lectureId": "candidates",
+    "text": "Which imaging modality is considered the gold-standard for evaluating the corpus callosum due to its superior soft-tissue contrast?",
+    "options": [
+      "X-ray",
+      "Fluoroscopy",
+      "Magnetic Resonance Imaging (MRI)",
+      "Non-contrast CT"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "candidates-q018",
+    "lectureId": "candidates",
+    "text": "On a standard DTI (Diffusion Tensor Imaging) color map, what color represents transverse fibers like the corpus callosum?",
+    "options": [
+      "Red",
+      "Blue",
+      "Green",
+      "Yellow"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "candidates-q019",
+    "lectureId": "candidates",
+    "text": "Which structures combine to form the Striatum?",
+    "options": [
+      "Caudate nucleus + Globus pallidus",
+      "Caudate nucleus + Putamen",
+      "Putamen + Globus pallidus",
+      "Thalamus + Hypothalamus"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "candidates-q020",
+    "lectureId": "candidates",
+    "text": "What shape does the internal capsule typically have on cross-section, acting as a critical boundary landmark?",
+    "options": [
+      "O-shaped",
+      "V-shaped (or boomerang-shaped)",
+      "Circular",
+      "Square"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "candidates-q021",
+    "lectureId": "candidates",
+    "text": "On a non-contrast CT scan, what is the approximate density (in Hounsfield Units) of the basal ganglia?",
+    "options": [
+      "0 to 10 HU",
+      "20 to 30 HU",
+      "35 to 45 HU",
+      "80 to 100 HU"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "candidates-q022",
+    "lectureId": "candidates",
+    "text": "Physiological calcifications within which structure are commonly found as a normal variant in elderly individuals (over 60)?",
+    "options": [
+      "Globus pallidus",
+      "Corpus callosum",
+      "Optic chiasm",
+      "Pituitary gland"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "candidates-q023",
+    "lectureId": "candidates",
+    "text": "Which MRI sequence reveals dark signal within the basal ganglia due to physiological iron deposition?",
+    "options": [
+      "T1-weighted",
+      "T2-weighted",
+      "SWI / T2*",
+      "Proton density"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "candidates-q024",
+    "lectureId": "candidates",
+    "text": "Which type of white matter fibers within the cerebral hemispheres connects corresponding areas of the two hemispheres?",
+    "options": [
+      "Association fibers",
+      "Commissural fibers",
+      "Projection fibers",
+      "Arcuate fibers"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "candidates-q025",
+    "lectureId": "candidates",
+    "text": "On a standard Diffusion Tensor Imaging (DTI) color-coded directional map, what color represents transverse (left-right) fibers such as the corpus callosum?",
+    "options": [
+      "Blue",
+      "Green",
+      "Red",
+      "Yellow"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "candidates-q026",
+    "lectureId": "candidates",
+    "text": "What structures constitute the Striatum (primary input zone of the basal ganglia)?",
+    "options": [
+      "Caudate nucleus + Globus pallidus",
+      "Putamen + Globus pallidus",
+      "Caudate nucleus + Putamen",
+      "Caudate nucleus + Putamen + Globus pallidus"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "candidates-q027",
+    "lectureId": "candidates",
+    "text": "Which structure forms the lateral border of the internal capsule?",
+    "options": [
+      "Caudate nucleus and thalamus",
+      "Claustrum and insula",
+      "Lentiform nucleus (putamen + globus pallidus)",
+      "Cingulate gyrus"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "candidates-q028",
+    "lectureId": "candidates",
+    "text": "Which of the following statements regarding physiological calcifications on a non-contrast CT in the elderly is correct?",
+    "options": [
+      "They are typically unilateral and asymmetric",
+      "They most commonly occur within the globus pallidus in adults over 60 years of age",
+      "They always indicate acute hemorrhage",
+      "They appear hypodense relative to the surrounding white matter"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "candidates-q029",
+    "lectureId": "candidates",
+    "text": "Which structure serves as a sensory relay station for all sensory stimuli except olfaction?",
+    "options": [
+      "Hypothalamus",
+      "Thalamus",
+      "Pineal gland",
+      "Pons"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "candidates-q030",
+    "lectureId": "candidates",
+    "text": "The hypothalamus forms which part of the third ventricle?",
+    "options": [
+      "Roof",
+      "Lateral walls",
+      "Floor",
+      "Posterior wall"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "candidates-q031",
+    "lectureId": "candidates",
+    "text": "What percentage of adults typically exhibit physiological calcification of the pineal gland on a CT scan?",
+    "options": [
+      "Up to 10%",
+      "Up to 20%",
+      "Up to 40%",
+      "Up to 80%"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "candidates-q032",
+    "lectureId": "candidates",
+    "text": "The anterior lobe of the pituitary gland (adenohypophysis) is derived from which embryonic structure?",
+    "options": [
+      "Neural ectoderm",
+      "Oral ectoderm (Rathke's pouch)",
+      "Diencephalon floor",
+      "Posterior wall of the third ventricle"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "candidates-q033",
+    "lectureId": "candidates",
+    "text": "Which hormones are stored and released by the posterior pituitary gland?",
+    "options": [
+      "Growth hormone and Prolactin",
+      "Thyroid-stimulating hormone and ACTH",
+      "ADH (vasopressin) and Oxytocin",
+      "FSH and LH"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "candidates-q034",
+    "lectureId": "candidates",
+    "text": "Which cranial nerve nuclei are located within the dorsal tegmentum of the pons?",
+    "options": [
+      "CN I, II, III, and IV",
+      "CN V, VI, VII, and VIII",
+      "CN IX, X, XI, and XII",
+      "CN III, IV, V, and VI"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "candidates-q035",
+    "lectureId": "candidates",
+    "text": "Approximately how long is the medulla oblongata?",
+    "options": [
+      "1 cm",
+      "2 cm",
+      "3 cm",
+      "5 cm"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "candidates-q036",
+    "lectureId": "candidates",
+    "text": "Why is CT evaluation of the posterior fossa significantly limited?",
+    "options": [
+      "Lack of tissue contrast",
+      "Beam-hardening streak artifacts from dense petrous bones",
+      "Excessive patient movement during scanning",
+      "Inadequate radiation dosage"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "candidates-q037",
+    "lectureId": "candidates",
+    "text": "On T2/FLAIR MRI, how does the thalamus appear relative to the posterior limb of the internal capsule?",
+    "options": [
+      "Hypointense",
+      "Isointense",
+      "Hyperintense",
+      "Completely dark"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "candidates-q038",
+    "lectureId": "candidates",
+    "text": "Which part of the brainstem acts as the caudal transition zone into the spinal cord?",
+    "options": [
+      "Midbrain",
+      "Pons",
+      "Medulla oblongata",
+      "Thalamus"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "candidates-q039",
+    "lectureId": "candidates",
+    "text": "Where is the cerebellum anatomically located within the cranial cavity?",
+    "options": [
+      "Anterior cranial fossa",
+      "Middle cranial fossa",
+      "Posterior cranial fossa",
+      "Superior cranial vault"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "candidates-q040",
+    "lectureId": "candidates",
+    "text": "Which of the following is a classic clinical manifestation of cerebellar damage?",
+    "options": [
+      "Spastic paralysis",
+      "Ataxia (loss of coordination)",
+      "Complete sensory loss (anesthesia)",
+      "Expressive aphasia"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "candidates-q041",
+    "lectureId": "candidates",
+    "text": "Through which structure do the paired lateral ventricles communicate with the third ventricle?",
+    "options": [
+      "Cerebral aqueduct (of Sylvius)",
+      "Foramen of Monro",
+      "Foramen of Magendie",
+      "Foramina of Luschka"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "candidates-q042",
+    "lectureId": "candidates",
+    "text": "Approximately how much cerebrospinal fluid (CSF) does an adult produce in a single day?",
+    "options": [
+      "150 mL",
+      "300 mL",
+      "500 mL",
+      "1,000 mL"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "candidates-q043",
+    "lectureId": "candidates",
+    "text": "Given a total circulating CSF volume of about 150 mL, approximately how many times per day is the CSF fully replaced?",
+    "options": [
+      "1 to 2 times",
+      "3 to 4 times",
+      "6 to 8 times",
+      "10 to 12 times"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "candidates-q044",
+    "lectureId": "candidates",
+    "text": "What are the two lateral openings of the fourth ventricle called?",
+    "options": [
+      "Foramina of Monro",
+      "Foramina of Luschka",
+      "Foramen of Magendie",
+      "Interventricular foramina"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "candidates-q045",
+    "lectureId": "candidates",
+    "text": "On a non-contrast head CT scan, how does normal cerebrospinal fluid (CSF) appear?",
+    "options": [
+      "Hyperdense and bright white",
+      "Isodense to grey matter",
+      "Hypodense and dark (0–10 HU)",
+      "Calcified (>100 HU)"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "candidates-q046",
+    "lectureId": "candidates",
+    "text": "Benign calcification of the choroid plexus is a normal aging finding most frequently seen in which ventricles, and how does it appear on CT?",
+    "options": [
+      "Lateral ventricles; hyperdense (bright white)",
+      "Fourth ventricle; hypodense (dark)",
+      "Third ventricle; isodense",
+      "Cerebral aqueduct; hypodense"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "candidates-q047",
+    "lectureId": "candidates",
+    "text": "How does normal cerebrospinal fluid (CSF) appear on a T2-weighted MRI brain scan?",
+    "options": [
+      "Dark (hypointense)",
+      "Bright (hyperintense)",
+      "Completely suppressed (black)",
+      "Enhancing uniformly"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "candidates-q048",
+    "lectureId": "candidates",
+    "text": "Which MRI sequence suppresses the CSF signal to dark, making it particularly useful for spotting periventricular pathology?",
+    "options": [
+      "T1-weighted",
+      "T2-weighted",
+      "FLAIR",
+      "Diffusion-Weighted Imaging (DWI)"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "candidates-q049",
+    "lectureId": "candidates",
+    "text": "Which inflow vessels provide the vast majority (about 80%) of the blood supply to the brain?",
+    "options": [
+      "Vertebral arteries",
+      "Internal Carotid Arteries (ICA)",
+      "External carotid arteries",
+      "Basilar artery"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "candidates-q050",
+    "lectureId": "candidates",
+    "text": "The basilar artery is formed by the merging of which two vessels inside the skull?",
+    "options": [
+      "Internal carotid arteries",
+      "Middle cerebral arteries",
+      "Vertebral arteries",
+      "Anterior cerebral arteries"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "candidates-q051",
+    "lectureId": "candidates",
+    "text": "Which cerebral artery territory is considered the largest highway and the most common location for a stroke?",
+    "options": [
+      "Anterior Cerebral Artery (ACA)",
+      "Middle Cerebral Artery (MCA)",
+      "Posterior Cerebral Artery (PCA)",
+      "Basilar Artery"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "candidates-q052",
+    "lectureId": "candidates",
+    "text": "The Posterior Cerebral Artery (PCA) primarily supplies blood to the back of the brain, which is mainly responsible for controlling:",
+    "options": [
+      "Vision",
+      "Speech",
+      "Leg movement",
+      "Hearing"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "candidates-q053",
+    "lectureId": "candidates",
+    "text": "The superior sagittal sinus and the straight sinus meet near the back of the head to form which structure?",
+    "options": [
+      "Transverse sinus",
+      "Confluence of sinuses",
+      "Sigmoid sinus",
+      "Internal jugular vein"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l1-q001",
+    "lectureId": "extra-l1",
+    "text": "Each cerebral hemisphere is divided into ........ lobes of unequal size:",
+    "options": [
+      "Two",
+      "three",
+      "four",
+      "five"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l1-q002",
+    "lectureId": "extra-l1",
+    "text": "White matter in CT: It appear dark grey because it contain fat",
+    "options": [
+      "True",
+      "false"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "extra-l1-q003",
+    "lectureId": "extra-l1",
+    "text": "The false statement in cerebral hemisphere:",
+    "options": [
+      "Each cerebral hemisphere is divided into four lobes.",
+      "The cerebral hemisphere are consist from gyri and sulci.",
+      "The two cerebral hemispheres are divided in the midscoronal plane.",
+      "The cerebral hemisphere are consist from grey and wite matter."
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l1-q004",
+    "lectureId": "extra-l1",
+    "text": "Each cerebral hemisphere is divided into four lobes of unequal size.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "extra-l1-q005",
+    "lectureId": "extra-l1",
+    "text": "The spinal cord is the part of the respiratory system.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l1-q006",
+    "lectureId": "extra-l1",
+    "text": "Brainstem is continuous with the spinal cord.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "extra-l1-q007",
+    "lectureId": "extra-l1",
+    "text": "The spinal cord is part from central nervous system.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "extra-l1-q008",
+    "lectureId": "extra-l1",
+    "text": "Which cerebral lobe contains the primary visual cortex?",
+    "options": [
+      "Frontal",
+      "Parietal",
+      "Temporal",
+      "Occipital"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "extra-l1-q009",
+    "lectureId": "extra-l1",
+    "text": "On a typical non-contrast CT brain, how does normal gray matter usually appear compared with white matter?",
+    "options": [
+      "Lower in attenuation",
+      "Higher in attenuation",
+      "Completely black",
+      "Always identical in attenuation"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l1-q010",
+    "lectureId": "extra-l1",
+    "text": "A student is examining an axial T2-weighted brain MRI. How does CSF typically appear?",
+    "options": [
+      "Dark",
+      "Bright",
+      "Identical to bone",
+      "Always invisible"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l1-q011",
+    "lectureId": "extra-l1",
+    "text": "Which two structures together make up the central nervous system (CNS)?",
+    "options": [
+      "Cerebrum and cerebellum only",
+      "Brain and spinal cord",
+      "Brainstem and cranial nerves only",
+      "Brain and peripheral nerves"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l1-q012",
+    "lectureId": "extra-l1",
+    "text": "Which vital autonomic functions are controlled by the brainstem?",
+    "options": [
+      "Visual processing and hearing",
+      "Language comprehension and memory",
+      "Respiration and heart rate",
+      "Fine touch and spatial awareness"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l1-q013",
+    "lectureId": "extra-l1",
+    "text": "Which major brain division is responsible for higher cognitive, sensory, and motor functions?",
+    "options": [
+      "Cerebellum",
+      "Cerebrum",
+      "Medulla oblongata",
+      "Spinal cord"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l1-q014",
+    "lectureId": "extra-l1",
+    "text": "Which structures are primarily found in the gray matter of the cerebral cortex?",
+    "options": [
+      "Myelinated axon tracts only",
+      "Neuronal cell bodies, dendrites, and synapses",
+      "Ventricular CSF and choroid plexus",
+      "Cranial bones and meninges"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l1-q015",
+    "lectureId": "extra-l1",
+    "text": "What are the elevated ridges on the surface of the cerebral cortex called?",
+    "options": [
+      "Sulci",
+      "Gyri",
+      "Fissures",
+      "Ventricles"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l1-q016",
+    "lectureId": "extra-l1",
+    "text": "Which term describes the shallow grooves between adjacent cerebral gyri?",
+    "options": [
+      "Gyri",
+      "Fissures",
+      "Sulci",
+      "Commissures"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l1-q017",
+    "lectureId": "extra-l1",
+    "text": "What distinguishes cerebral fissures from ordinary sulci?",
+    "options": [
+      "They are raised cortical ridges",
+      "They are deeper grooves separating major brain structures",
+      "They contain only cerebrospinal fluid",
+      "They are white matter tracts"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l1-q018",
+    "lectureId": "extra-l1",
+    "text": "The lateral (Sylvian) fissure separates which lobe below from the frontal and parietal lobes above?",
+    "options": [
+      "Occipital lobe",
+      "Frontal lobe",
+      "Temporal lobe",
+      "Parietal lobe"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l1-q019",
+    "lectureId": "extra-l1",
+    "text": "Why is the cerebral cortex folded into gyri and sulci?",
+    "options": [
+      "To reduce the number of neurons",
+      "To maximize cortical surface area within the skull",
+      "To produce cerebrospinal fluid",
+      "To connect the spinal nerves"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l1-q020",
+    "lectureId": "extra-l1",
+    "text": "The frontal lobe is situated in which position relative to the central sulcus?",
+    "options": [
+      "Posterior",
+      "Anterior",
+      "Inferior",
+      "Medial"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l1-q021",
+    "lectureId": "extra-l1",
+    "text": "Which cerebral lobe is mainly involved in planning, decision-making, and personality?",
+    "options": [
+      "Parietal lobe",
+      "Temporal lobe",
+      "Frontal lobe",
+      "Occipital lobe"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l1-q022",
+    "lectureId": "extra-l1",
+    "text": "The primary somatosensory cortex is located in which cerebral gyrus?",
+    "options": [
+      "Precentral gyrus",
+      "Postcentral gyrus",
+      "Cingulate gyrus",
+      "Superior temporal gyrus"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l1-q023",
+    "lectureId": "extra-l1",
+    "text": "Which lobe is most closely associated with spatial awareness and body perception?",
+    "options": [
+      "Frontal lobe",
+      "Parietal lobe",
+      "Temporal lobe",
+      "Occipital lobe"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l1-q024",
+    "lectureId": "extra-l1",
+    "text": "Which lobe is responsible for auditory processing and language comprehension?",
+    "options": [
+      "Frontal lobe",
+      "Parietal lobe",
+      "Temporal lobe",
+      "Occipital lobe"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l1-q025",
+    "lectureId": "extra-l1",
+    "text": "The hippocampus within the medial temporal region is important for which function?",
+    "options": [
+      "Visual image processing",
+      "Memory formation",
+      "Balance and posture",
+      "Respiratory control"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l1-q026",
+    "lectureId": "extra-l1",
+    "text": "Which investigation is particularly useful for rapidly detecting acute intracranial hemorrhage and skull fractures?",
+    "options": [
+      "MRI with T1 sequence",
+      "Diffusion Tensor Imaging (DTI)",
+      "CT",
+      "Ultrasound of the brain"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l1-q027",
+    "lectureId": "extra-l1",
+    "text": "On a normal non-contrast brain CT, the approximate density of gray matter is:",
+    "options": [
+      "0–10 HU",
+      "35–45 HU",
+      "20–30 HU",
+      "80–100 HU"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l1-q028",
+    "lectureId": "extra-l1",
+    "text": "What is the approximate attenuation of normal cerebral white matter on CT?",
+    "options": [
+      "0–10 HU",
+      "20–30 HU",
+      "35–45 HU",
+      "100–150 HU"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l1-q029",
+    "lectureId": "extra-l1",
+    "text": "Magnetic Resonance Imaging (MRI) primarily uses which combination to produce images?",
+    "options": [
+      "X-rays and iodinated contrast",
+      "Ultrasound waves and Doppler shift",
+      "Strong magnetic fields and radiofrequency pulses",
+      "Gamma rays and scintillation crystals"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l1-q030",
+    "lectureId": "extra-l1",
+    "text": "Which statement best describes the use of ionizing radiation in routine brain MRI?",
+    "options": [
+      "MRI always uses diagnostic X-rays",
+      "MRI requires gamma radiation",
+      "MRI does not use ionizing radiation",
+      "MRI depends on fluoroscopy"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l1-q031",
+    "lectureId": "extra-l1",
+    "text": "On a T1-weighted brain MRI, cerebrospinal fluid inside the ventricles appears:",
+    "options": [
+      "Dark (hypointense)",
+      "Bright (hyperintense)",
+      "Bright white like cortical bone",
+      "Identical to surrounding fat"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "extra-l1-q032",
+    "lectureId": "extra-l1",
+    "text": "Which imaging plane divides the brain into anterior and posterior portions?",
+    "options": [
+      "Coronal plane",
+      "Sagittal plane",
+      "Axial plane",
+      "Transverse plane"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "extra-l1-q033",
+    "lectureId": "extra-l1",
+    "text": "An axial brain section separates the body into which two portions?",
+    "options": [
+      "Right and left",
+      "Superior and inferior",
+      "Anterior and posterior",
+      "Medial and lateral"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l2-q034",
+    "lectureId": "extra-l2",
+    "text": "The ........ is the substance that contains the fiber tracts of neuronal axons in the central nervous system.",
+    "options": [
+      "Grey matter",
+      "white matter",
+      "yellow matter",
+      "black matter"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l2-q035",
+    "lectureId": "extra-l2",
+    "text": "The grey matter is the substance of the brain and spinal cord that contains the fiber tracts of neuronal axons in the central nervous system",
+    "options": [
+      "True",
+      "false"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l2-q036",
+    "lectureId": "extra-l2",
+    "text": "White matter is part from central nervous system.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "extra-l2-q037",
+    "lectureId": "extra-l2",
+    "text": "Which white matter fibers connect cortical regions within the same cerebral hemisphere?",
+    "options": [
+      "Commissural fibers",
+      "Projection fibers",
+      "Association fibers",
+      "Cerebellar peduncles"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l2-q038",
+    "lectureId": "extra-l2",
+    "text": "Which class of white matter fibers connects the cerebral cortex to lower CNS centers?",
+    "options": [
+      "Association fibers",
+      "Projection fibers",
+      "Commissural fibers",
+      "Callosal fibers only"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l2-q039",
+    "lectureId": "extra-l2",
+    "text": "Which part of the corpus callosum is the thin anterior-inferior tip linked to the lamina terminalis?",
+    "options": [
+      "Genu",
+      "Body",
+      "Rostrum",
+      "Splenium"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l2-q040",
+    "lectureId": "extra-l2",
+    "text": "Which segment of the corpus callosum arches over the lateral ventricles?",
+    "options": [
+      "Rostrum",
+      "Genu",
+      "Body (trunk)",
+      "Splenium"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l2-q041",
+    "lectureId": "extra-l2",
+    "text": "The splenium of the corpus callosum mainly connects which cerebral lobes?",
+    "options": [
+      "Frontal lobes only",
+      "Occipital and parietal lobes",
+      "Temporal lobes only",
+      "Cerebellar hemispheres"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l2-q042",
+    "lectureId": "extra-l2",
+    "text": "Which segment forms the thick, expanded posterior end of the corpus callosum?",
+    "options": [
+      "Rostrum",
+      "Genu",
+      "Splenium",
+      "Body"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l2-q043",
+    "lectureId": "extra-l2",
+    "text": "On a DTI directional color map, vertical projection fibers are typically shown in which color?",
+    "options": [
+      "Red",
+      "Blue",
+      "Green",
+      "Yellow"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l2-q044",
+    "lectureId": "extra-l2",
+    "text": "Which DTI color convention represents anterior-posterior association fibers?",
+    "options": [
+      "Green",
+      "Red",
+      "Blue",
+      "White"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "extra-l2-q045",
+    "lectureId": "extra-l2",
+    "text": "The basal ganglia are collections of which type of tissue deep within cerebral white matter?",
+    "options": [
+      "Cortical white matter tracts",
+      "Meningeal membranes",
+      "Subcortical gray matter nuclei",
+      "Cerebellar cortex only"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l2-q046",
+    "lectureId": "extra-l2",
+    "text": "Which set of functions is particularly associated with the basal ganglia?",
+    "options": [
+      "Vision, hearing, and CSF production",
+      "Respiration, heart rate, and balance",
+      "Motor control, movement planning, and procedural learning",
+      "Language comprehension alone"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l2-q047",
+    "lectureId": "extra-l2",
+    "text": "The corpus striatum is formed by the caudate nucleus, putamen, and which other structure?",
+    "options": [
+      "Thalamus",
+      "Hypothalamus",
+      "Claustrum",
+      "Globus pallidus"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "extra-l2-q048",
+    "lectureId": "extra-l2",
+    "text": "Which two structures together constitute the lentiform nucleus?",
+    "options": [
+      "Caudate nucleus and thalamus",
+      "Putamen and globus pallidus",
+      "Caudate nucleus and putamen",
+      "Thalamus and hypothalamus"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l2-q049",
+    "lectureId": "extra-l2",
+    "text": "The lentiform nucleus is described anatomically as having which shape?",
+    "options": [
+      "Biconvex (lens-shaped)",
+      "C-shaped",
+      "Diamond-shaped",
+      "S-shaped"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "extra-l2-q050",
+    "lectureId": "extra-l2",
+    "text": "Which structures lie medial to the internal capsule?",
+    "options": [
+      "Putamen and globus pallidus",
+      "Insula and claustrum",
+      "Caudate nucleus and thalamus",
+      "Cerebellum and pons"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l2-q051",
+    "lectureId": "extra-l2",
+    "text": "On CT, normal globus pallidus calcification in older adults is most often:",
+    "options": [
+      "Symmetric focal hyperdensity",
+      "Diffuse hypodensity",
+      "Unilateral black signal",
+      "Diffuse ventricular enlargement"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "extra-l2-q052",
+    "lectureId": "extra-l2",
+    "text": "Why does the internal capsule appear darker than the basal ganglia on non-contrast CT?",
+    "options": [
+      "It contains calcified gray matter",
+      "Its white matter has lower attenuation",
+      "It is filled with CSF",
+      "It always contains iron deposits"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l2-q053",
+    "lectureId": "extra-l2",
+    "text": "How do the basal ganglia generally appear on T1-weighted MRI?",
+    "options": [
+      "Completely black signal",
+      "Intermediate gray signal intensity",
+      "Uniformly bright like CSF on T2",
+      "Absent signal in all nuclei"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l2-q054",
+    "lectureId": "extra-l2",
+    "text": "On T2-weighted MRI, the deep basal ganglia nuclei typically show:",
+    "options": [
+      "Bright CSF-like signal throughout",
+      "Complete absence of gray matter",
+      "Intermediate to slightly low signal intensity",
+      "Uniform contrast enhancement"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l2-q055",
+    "lectureId": "extra-l2",
+    "text": "Physiological iron-related signal loss on SWI/T2* is particularly prominent within the:",
+    "options": [
+      "Corpus callosum",
+      "Globus pallidus",
+      "Lateral ventricle",
+      "Precentral gyrus"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l3-q056",
+    "lectureId": "extra-l3",
+    "text": "The pituitary is usually divided into........ parts:",
+    "options": [
+      "Anterior&posterior",
+      "superior and inferior",
+      "medial and lateral",
+      "all of them"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "extra-l3-q057",
+    "lectureId": "extra-l3",
+    "text": "The ........ is the middle portion of the three parts of the brainstem:",
+    "options": [
+      "midbrain",
+      "pons",
+      "medulla",
+      "non of them"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l3-q058",
+    "lectureId": "extra-l3",
+    "text": "........ It is the transition from the spinal cord to the brain:",
+    "options": [
+      "midbrain",
+      "pons",
+      "medulla",
+      "non of them"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l3-q059",
+    "lectureId": "extra-l3",
+    "text": "The hypothalamus is form the floor of:",
+    "options": [
+      "Lateral",
+      "3rd ventricle",
+      "4th ventricle",
+      "all of them"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l3-q060",
+    "lectureId": "extra-l3",
+    "text": "The midbrain considers as a transition from the brain to the spinal cord.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l3-q061",
+    "lectureId": "extra-l3",
+    "text": "The pituitary gland measures 12cm in transverse diameter.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l3-q062",
+    "lectureId": "extra-l3",
+    "text": "The most rostral part of the brainstem is:",
+    "options": [
+      "Pons",
+      "Medulla",
+      "Midbrain",
+      "Cerebellum"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l3-q063",
+    "lectureId": "extra-l3",
+    "text": "The thalamus is Lie in the lateral walls of:",
+    "options": [
+      "Lateral ventricle",
+      "2nd ventricle.",
+      "3rd ventricle",
+      "fourth"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l3-q064",
+    "lectureId": "extra-l3",
+    "text": "The medulla considers as a transition from the brain to the spinal cord.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "extra-l3-q065",
+    "lectureId": "extra-l3",
+    "text": "The pituitary gland measures 12mm in transverse diameter.",
+    "options": [
+      "true",
+      "false"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "extra-l3-q066",
+    "lectureId": "extra-l3",
+    "text": "The pituitary gland located below the pituitary fossa",
+    "options": [
+      "true",
+      "false"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l3-q067",
+    "lectureId": "extra-l3",
+    "text": "The pituitary gland located within the pituitary fossa",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "extra-l3-q068",
+    "lectureId": "extra-l3",
+    "text": "The pituitary gland measures 32mm in transverse diameter.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l3-q069",
+    "lectureId": "extra-l3",
+    "text": "The medulla is approximately 300 cm in length.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l3-q070",
+    "lectureId": "extra-l3",
+    "text": "The paired thalami form which anatomical boundaries of the third ventricle?",
+    "options": [
+      "Floor only",
+      "Roof only",
+      "Lateral walls",
+      "Anterior opening"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l3-q071",
+    "lectureId": "extra-l3",
+    "text": "How does the normal thalamus usually appear on non-contrast brain CT?",
+    "options": [
+      "Bright calcified white matter",
+      "Symmetrical gray matter density",
+      "Dark CSF density",
+      "Completely absent density"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l3-q072",
+    "lectureId": "extra-l3",
+    "text": "On T1-weighted MRI, the thalamus is generally isointense to:",
+    "options": [
+      "Ventricular CSF",
+      "Cortical gray matter",
+      "Skull cortical bone",
+      "Air in the sinuses"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l3-q073",
+    "lectureId": "extra-l3",
+    "text": "Where is the hypothalamus located in relation to the thalamus?",
+    "options": [
+      "Below the thalamus",
+      "Above the thalamus",
+      "Within the occipital cortex",
+      "Behind the cerebellum"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "extra-l3-q074",
+    "lectureId": "extra-l3",
+    "text": "Which of the following structures is included in the hypothalamic region?",
+    "options": [
+      "Splenium of corpus callosum",
+      "Globus pallidus",
+      "Mammillary bodies",
+      "Foramen of Magendie"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l3-q075",
+    "lectureId": "extra-l3",
+    "text": "Which structure associated with the hypothalamus links it to the pituitary gland?",
+    "options": [
+      "Infundibulum",
+      "Genu",
+      "Cerebral aqueduct",
+      "Lentiform nucleus"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "extra-l3-q076",
+    "lectureId": "extra-l3",
+    "text": "Which brain region is especially important for body temperature regulation, hunger, and thirst?",
+    "options": [
+      "Thalamus",
+      "Hypothalamus",
+      "Pineal gland",
+      "Pons"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l3-q077",
+    "lectureId": "extra-l3",
+    "text": "Regulation of circadian rhythms is one of the functions attributed to the:",
+    "options": [
+      "Corpus callosum",
+      "Medulla oblongata",
+      "Hypothalamus",
+      "Basal ganglia"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l3-q078",
+    "lectureId": "extra-l3",
+    "text": "Which structure provides endocrine control through its influence on the pituitary gland?",
+    "options": [
+      "Occipital cortex",
+      "Hypothalamus",
+      "Cerebellar cortex",
+      "Corpus callosum"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l3-q079",
+    "lectureId": "extra-l3",
+    "text": "The pineal gland is located in which part of the third ventricle?",
+    "options": [
+      "Floor",
+      "Lateral wall",
+      "Posterior wall",
+      "Anterior opening"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l3-q080",
+    "lectureId": "extra-l3",
+    "text": "What is the approximate normal size of the pineal gland in adults?",
+    "options": [
+      "5–8 mm",
+      "1–2 mm",
+      "12–15 mm",
+      "20–25 mm"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "extra-l3-q081",
+    "lectureId": "extra-l3",
+    "text": "A pineal gland measuring more than approximately which size may raise concern for a mass?",
+    "options": [
+      "3 mm",
+      "15 mm",
+      "5 mm",
+      "8 mm"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l3-q082",
+    "lectureId": "extra-l3",
+    "text": "Why is physiological pineal calcification useful as a radiological landmark?",
+    "options": [
+      "It always indicates malignancy",
+      "It identifies a midline structure",
+      "It locates the fourth ventricle",
+      "It outlines the internal capsule"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l3-q083",
+    "lectureId": "extra-l3",
+    "text": "The pituitary gland normally lies within which bony structure?",
+    "options": [
+      "Posterior cranial fossa",
+      "Sella turcica (pituitary fossa)",
+      "Foramen magnum",
+      "Lateral ventricle"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l3-q084",
+    "lectureId": "extra-l3",
+    "text": "Which pair of hormones is produced by the anterior pituitary lobe?",
+    "options": [
+      "ADH and oxytocin",
+      "Melatonin and insulin",
+      "TSH and ACTH",
+      "Epinephrine and norepinephrine"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l3-q085",
+    "lectureId": "extra-l3",
+    "text": "Which hormone is produced by the adenohypophysis according to the lecture?",
+    "options": [
+      "Oxytocin",
+      "Prolactin",
+      "ADH (vasopressin)",
+      "Melatonin"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l3-q086",
+    "lectureId": "extra-l3",
+    "text": "The posterior pituitary gland is primarily formed from:",
+    "options": [
+      "Oral ectoderm from Rathke’s pouch",
+      "Neural tissue extending from hypothalamic axons",
+      "Cortical gray matter of the cerebrum",
+      "Lentiform nuclear tissue"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l3-q087",
+    "lectureId": "extra-l3",
+    "text": "Which statement is correct about the posterior pituitary gland?",
+    "options": [
+      "It synthesizes only TSH and ACTH",
+      "It produces prolactin and FSH",
+      "It stores and releases hormones without synthesizing them",
+      "It produces melatonin in the third ventricle"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l3-q088",
+    "lectureId": "extra-l3",
+    "text": "Which cranial nerve nuclei are generally housed in the brainstem?",
+    "options": [
+      "CN I and CN II only",
+      "CN III through CN XII",
+      "Only CN V and CN VII",
+      "Only spinal nerves"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l3-q089",
+    "lectureId": "extra-l3",
+    "text": "Which function is regulated by vital autonomic centers in the brainstem?",
+    "options": [
+      "Visual perception only",
+      "Voluntary memory formation",
+      "Blood pressure and respiratory rhythm",
+      "CSF production in the choroid plexus"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l3-q090",
+    "lectureId": "extra-l3",
+    "text": "Which component of the brainstem is located above the pons?",
+    "options": [
+      "Medulla oblongata",
+      "Midbrain",
+      "Spinal cord",
+      "Cerebellum"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l3-q091",
+    "lectureId": "extra-l3",
+    "text": "What is the approximate greatest diameter of the medulla oblongata?",
+    "options": [
+      "0.5 cm",
+      "2 cm",
+      "5 cm",
+      "8 cm"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l3-q092",
+    "lectureId": "extra-l3",
+    "text": "Which imaging modality and sequence are best suited for viewing cranial nerve roots in the posterior fossa?",
+    "options": [
+      "Plain X-ray",
+      "Non-contrast skull radiography",
+      "T2-weighted MRI",
+      "Routine abdominal ultrasound"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l3-q093",
+    "lectureId": "extra-l3",
+    "text": "On which MRI sequence is the normal pituitary bright spot described as hyperintense?",
+    "options": [
+      "T2-weighted MRI only",
+      "T1-weighted MRI",
+      "FLAIR only",
+      "Non-contrast CT"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l3-q094",
+    "lectureId": "extra-l3",
+    "text": "Which MRI sequence is particularly sensitive for detecting small infarcts in the brainstem?",
+    "options": [
+      "T1 without diffusion",
+      "Plain skull X-ray",
+      "DWI",
+      "T2* for calcifications"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l4-q095",
+    "lectureId": "extra-l4",
+    "text": "The cerebellum is connected to:",
+    "options": [
+      "brainstem",
+      "thalamus",
+      "hypothalamus",
+      "all of them"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "extra-l4-q096",
+    "lectureId": "extra-l4",
+    "text": "CSF has a density close to water, around ........ Hounsfield units in CT:",
+    "options": [
+      "0-10",
+      "10-20",
+      "20-30",
+      "40-60"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "extra-l4-q097",
+    "lectureId": "extra-l4",
+    "text": "Cerebrospinal fluid is produced in:",
+    "options": [
+      "Lateral ventricles",
+      "Third ventricle",
+      "Fourth ventricle",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "extra-l4-q098",
+    "lectureId": "extra-l4",
+    "text": "The ........ is located within the cerebral ventricles and it produces cerebrospinal fluid:",
+    "options": [
+      "choroid plexus",
+      "brain stem",
+      "gland",
+      "thalamus"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "extra-l4-q099",
+    "lectureId": "extra-l4",
+    "text": "The intracranial circulation can be divided into ........ circulation:",
+    "options": [
+      "Anterior&posterior",
+      "superior and inferior",
+      "medial and lateral",
+      "all of them."
+    ],
+    "correct": 0
+  },
+  {
+    "id": "extra-l4-q100",
+    "lectureId": "extra-l4",
+    "text": "The anterior cerebral artery is from.......... circulation:",
+    "options": [
+      "Anterior",
+      "posterior",
+      "medial",
+      "inferior"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "extra-l4-q101",
+    "lectureId": "extra-l4",
+    "text": "The superior sagittal sinus is:",
+    "options": [
+      "artery",
+      "venous",
+      "fat",
+      "CSF"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l4-q102",
+    "lectureId": "extra-l4",
+    "text": "The ventricular system in the brain is composed of CSF-filled ventricles.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "extra-l4-q103",
+    "lectureId": "extra-l4",
+    "text": "The choroid plexus is located within the cerebral ventricles.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "extra-l4-q104",
+    "lectureId": "extra-l4",
+    "text": "Ventricles contain around 250 ml from CSF.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l4-q105",
+    "lectureId": "extra-l4",
+    "text": "The cerebral venous system can be divided into: Superficial & Deep cerebral veins.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "extra-l4-q106",
+    "lectureId": "extra-l4",
+    "text": "The superior sagittal sinus is part from dural venous.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "extra-l4-q107",
+    "lectureId": "extra-l4",
+    "text": "The posterior circulation is supplied by the internal carotid arteries.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l4-q108",
+    "lectureId": "extra-l4",
+    "text": "The posterior circulation is supplied by the vertebral arteries.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "extra-l4-q109",
+    "lectureId": "extra-l4",
+    "text": "The cerebellum sits at the base of the brain in the Anterior cranial fossa.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l4-q110",
+    "lectureId": "extra-l4",
+    "text": "The cerebellum lies directly posterior to which two brainstem structures?",
+    "options": [
+      "Midbrain and thalamus",
+      "Caudate nucleus and putamen",
+      "Pons and medulla oblongata",
+      "Frontal and parietal lobes"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l4-q111",
+    "lectureId": "extra-l4",
+    "text": "Which dural structure separates the cerebellum from the cerebrum above it?",
+    "options": [
+      "Falx cerebri",
+      "Pia mater",
+      "Tentorium cerebelli",
+      "Arachnoid granulations"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l4-q112",
+    "lectureId": "extra-l4",
+    "text": "Which opening is closely related to the inferior extent of the cerebellum?",
+    "options": [
+      "Foramen of Monro",
+      "Foramen magnum",
+      "Foramen of Luschka",
+      "Cerebral aqueduct"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l4-q113",
+    "lectureId": "extra-l4",
+    "text": "Which of the following is one of the three named anatomical lobes of the cerebellum?",
+    "options": [
+      "Temporal lobe",
+      "Flocculonodular lobe",
+      "Parietal lobe",
+      "Insular lobe"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l4-q114",
+    "lectureId": "extra-l4",
+    "text": "Which structure fine-tunes voluntary movements to make them accurate and smooth?",
+    "options": [
+      "Hypothalamus",
+      "Cerebellum",
+      "Pineal gland",
+      "Choroid plexus"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l4-q115",
+    "lectureId": "extra-l4",
+    "text": "The cerebellum helps maintain which of the following functions?",
+    "options": [
+      "Hormone synthesis in the pituitary",
+      "Formation of CSF",
+      "Equilibrium and upright posture",
+      "Conscious visual interpretation"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l4-q116",
+    "lectureId": "extra-l4",
+    "text": "Control of the rhythm and coordination of walking is mainly a function of the:",
+    "options": [
+      "Thalamus",
+      "Corpus callosum",
+      "Pineal gland",
+      "Cerebellum"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "extra-l4-q117",
+    "lectureId": "extra-l4",
+    "text": "Which mechanism helps the cerebellum improve motor skills over time?",
+    "options": [
+      "Ventricular calcification",
+      "Increased CSF production",
+      "Repetition and feedback",
+      "Pituitary hormone release"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l4-q118",
+    "lectureId": "extra-l4",
+    "text": "The paired lateral ventricles are typically described as having which shape?",
+    "options": [
+      "Diamond-shaped",
+      "C-shaped",
+      "Square-shaped",
+      "Straight tubular"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l4-q119",
+    "lectureId": "extra-l4",
+    "text": "The third ventricle is anatomically located between the:",
+    "options": [
+      "Cerebellar hemispheres",
+      "Frontal lobes only",
+      "Thalami",
+      "Pons and medulla"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l4-q120",
+    "lectureId": "extra-l4",
+    "text": "Which ventricle is diamond-shaped and lies posterior to the pons?",
+    "options": [
+      "Lateral ventricle",
+      "Fourth ventricle",
+      "Third ventricle",
+      "Central canal"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l4-q121",
+    "lectureId": "extra-l4",
+    "text": "Inferiorly, the fourth ventricle is continuous with the:",
+    "options": [
+      "Third ventricle directly",
+      "Central canal of the spinal cord",
+      "Foramen of Monro",
+      "Pituitary fossa"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l4-q122",
+    "lectureId": "extra-l4",
+    "text": "Which cell type lines the cerebral ventricles?",
+    "options": [
+      "Osteoblasts",
+      "Hepatocytes",
+      "Schwann cells",
+      "Ependymal cells"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "extra-l4-q123",
+    "lectureId": "extra-l4",
+    "text": "Which ventricles are the largest contributors to CSF production by the choroid plexus?",
+    "options": [
+      "Fourth ventricle only",
+      "Lateral ventricles",
+      "Third ventricle only",
+      "Central canal"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l4-q124",
+    "lectureId": "extra-l4",
+    "text": "After leaving the third ventricle, CSF passes through which structure?",
+    "options": [
+      "Foramen of Magendie",
+      "Foramina of Luschka",
+      "Cerebral aqueduct",
+      "Superior sagittal sinus"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l4-q125",
+    "lectureId": "extra-l4",
+    "text": "The cerebral aqueduct connects which two ventricles?",
+    "options": [
+      "Two lateral ventricles",
+      "Third and fourth ventricles",
+      "Lateral and third ventricles",
+      "Fourth ventricle and spinal canal directly"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l4-q126",
+    "lectureId": "extra-l4",
+    "text": "What is the name of the single median opening of the fourth ventricle?",
+    "options": [
+      "Foramen of Monro",
+      "Foramen of Magendie",
+      "Foramina of Luschka",
+      "Cerebral aqueduct"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l4-q127",
+    "lectureId": "extra-l4",
+    "text": "CSF leaves the fourth ventricle through Luschka and Magendie to enter the:",
+    "options": [
+      "Sella turcica",
+      "Subarachnoid space",
+      "Internal capsule",
+      "Basal ganglia"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l4-q128",
+    "lectureId": "extra-l4",
+    "text": "Where is CSF returned to the venous system after circulating through the subarachnoid space?",
+    "options": [
+      "Choroid plexus",
+      "Cerebellar peduncles",
+      "Arachnoid granulations",
+      "Foramen of Monro"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l4-q129",
+    "lectureId": "extra-l4",
+    "text": "On CT, choroid plexus calcification is distinguished from hemorrhage by its expected location and:",
+    "options": [
+      "Low density of 0–10 HU",
+      "T1 signal like CSF",
+      "Very high density, often above 100 HU",
+      "Complete absence of density"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l4-q130",
+    "lectureId": "extra-l4",
+    "text": "In a brain MRI, which sequence makes ventricular CSF dark to highlight nearby lesions?",
+    "options": [
+      "FLAIR",
+      "T2-weighted",
+      "ADC map",
+      "T1 post-contrast only"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "extra-l4-q131",
+    "lectureId": "extra-l4",
+    "text": "Which MRI sequence is particularly useful for CSF mapping and assessing hydrocephalus?",
+    "options": [
+      "T1-weighted MRI only",
+      "T2-weighted MRI",
+      "Susceptibility-weighted imaging only",
+      "Plain skull X-ray"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l4-q132",
+    "lectureId": "extra-l4",
+    "text": "Which MRI sequence is useful for ventricular anatomical landmarks while showing dark CSF?",
+    "options": [
+      "T2-weighted MRI",
+      "T1-weighted MRI",
+      "Diffusion Tensor Imaging only",
+      "CT angiography"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l4-q133",
+    "lectureId": "extra-l4",
+    "text": "Which radiological line is used as a landmark for cerebellar tonsil position?",
+    "options": [
+      "McRae line",
+      "Sylvian fissure",
+      "Central sulcus",
+      "Foramen of Monro"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "extra-l4-q134",
+    "lectureId": "extra-l4",
+    "text": "Approximately what percentage of brain blood supply is contributed by the vertebral arteries?",
+    "options": [
+      "40%",
+      "60%",
+      "20%",
+      "80%"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l4-q135",
+    "lectureId": "extra-l4",
+    "text": "Why is the Circle of Willis important when a major cerebral artery becomes blocked?",
+    "options": [
+      "It produces cerebrospinal fluid",
+      "It provides an alternative collateral blood route",
+      "It drains directly into the internal jugular vein",
+      "It stores pituitary hormones"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l4-q136",
+    "lectureId": "extra-l4",
+    "text": "The anterior cerebral artery (ACA) mainly supplies regions involved in controlling the:",
+    "options": [
+      "Face and speech only",
+      "Visual cortex only",
+      "Legs and feet",
+      "Cerebellar flocculus"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l4-q137",
+    "lectureId": "extra-l4",
+    "text": "Which functions are particularly associated with the MCA territory according to the lecture?",
+    "options": [
+      "Vision only",
+      "Leg and foot control only",
+      "Arm, face, and speech functions",
+      "CSF absorption only"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l4-q138",
+    "lectureId": "extra-l4",
+    "text": "Which vessel joins the anterior cerebral arteries in the Circle of Willis diagram?",
+    "options": [
+      "Basilar artery",
+      "Middle cerebral artery",
+      "Anterior communicating artery",
+      "Straight sinus"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "extra-l4-q139",
+    "lectureId": "extra-l4",
+    "text": "The inferior sagittal sinus joins the great cerebral vein to form the:",
+    "options": [
+      "Superior sagittal sinus",
+      "Straight sinus",
+      "Sigmoid sinus",
+      "Internal carotid artery"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "extra-l4-q140",
+    "lectureId": "extra-l4",
+    "text": "After the confluence of sinuses, blood drains through the transverse sinus and then the:",
+    "options": [
+      "Sigmoid sinus",
+      "Cerebral aqueduct",
+      "Foramen of Monro",
+      "Middle cerebral artery"
+    ],
+    "correct": 0
+  }
+]

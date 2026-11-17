@@ -1,0 +1,41 @@
+[
+  {
+    "id": "candidates",
+    "title": "مرشحات التشريح",
+    "category": "مرشحات التشريح",
+    "order": 1,
+    "icon": "📒"
+  },
+  {
+    "id": "extra-l1",
+    "number": "1",
+    "title": "CEREBRAL HEMISPHERES & BRAIN IMAGING",
+    "category": "أسئلة التشريح الإضافية",
+    "order": 2,
+    "icon": "📘"
+  },
+  {
+    "id": "extra-l2",
+    "number": "2",
+    "title": "WHITE MATTER & BASAL GANGLIA",
+    "category": "أسئلة التشريح الإضافية",
+    "order": 3,
+    "icon": "📗"
+  },
+  {
+    "id": "extra-l3",
+    "number": "3",
+    "title": "DIENCEPHALON, PITUITARY & BRAINSTEM",
+    "category": "أسئلة التشريح الإضافية",
+    "order": 4,
+    "icon": "📙"
+  },
+  {
+    "id": "extra-l4",
+    "number": "4",
+    "title": "CEREBELLUM, VENTRICLES & CEREBRAL CIRCULATION",
+    "category": "أسئلة التشريح الإضافية",
+    "order": 5,
+    "icon": "📕"
+  }
+]
